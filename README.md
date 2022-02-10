@@ -1,2 +1,2 @@
 # karpov_courses
-homework
+project & tasks
